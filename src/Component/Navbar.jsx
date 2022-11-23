@@ -26,7 +26,7 @@ function Navbar() {
           <BNav.Link href="/Login">Login</BNav.Link>
         </BNav.Item>
         <BNav.Item style={itemStyle}>
-          <BNav.Link href="/Poop">Poop</BNav.Link>
+          <BNav.Link href="/Poop">Chris Stupid</BNav.Link>
         </BNav.Item>
       </BNav>
     </>
